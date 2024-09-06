@@ -1,4 +1,4 @@
-module github.com/qedclear-tech/egts-pkg-debugger
+module github.com/qed-tech/egts-pkg-debugger
 
 go 1.22.3
 
