@@ -6,7 +6,7 @@ A Go-based command-line tool for parsing and describing EGTS protocol packets. T
 
 To install the tool, make sure you have Go installed on your machine, then run the following command:
 ```sh
-go install github.com/QED-tech/egts-pkg-debugger@latest
+go install github.com/qed-tech/egts-pkg-debugger
 ```
 
 # Prerequisites
