@@ -81,4 +81,4 @@ egts-pkg-debugger decode "0100020b002300020001871800010011e70300000202101500b673
 # Contact
 
 For questions or feedback, please contact  
- 💬 Telegram [@VladislavBerezovskiy]((https://t.me/VladislavBerezovskiy)  )
+ 💬 Telegram [@VladislavBerezovskiy](https://t.me/VladislavBerezovskiy)
